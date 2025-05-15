@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Etkinlikbilet", "Etkinlikbilet\Etkinlikbilet.pyproj", "{2D55BF63-F277-4730-9A7F-7C40CBF57B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D55BF63-F277-4730-9A7F-7C40CBF57B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D55BF63-F277-4730-9A7F-7C40CBF57B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C49E4A-DE7B-4436-9BD1-C222C5122E28}
+	EndGlobalSection
+EndGlobal
